@@ -1,0 +1,3 @@
+avatar.jpg   头像
+alipay.jpg  打赏支付宝
+weixin.jpg  打赏微信
